@@ -2,12 +2,16 @@ high tech, low life.
 
 ### About Me: 
 
-I am a data scientist interested in predictive analytics and regression tasks. 
-Building models based on recurrent neural networks(RNN) and LSTM. I am also interested in the concept of reinforcement learning(RL).
-I also feel great in classical machine learning and know the necessary mathematical basis.
-At the moment I'm interested in DeFi and web3. I am well versed in writing and analyzing smart-contracts.
-In my free time I solve problems on LeetCode and play CTF's.
+Tôi tên Hương, mọi người gọi tôi là alisababi. Tên thật của tôi là NGUYỄN THỊ THU HƯƠNG.  
+Tôi sinh năm 2000, đến từ Việt Nam, nơi tôi sinh ra và lớn lên ở Gia Lai.  
+Hiện tại, tôi sống, học tập và làm việc tại Thủ đô Hà Nội.
 
+Tôi là một nhà khoa học dữ liệu quan tâm đến phân tích dự đoán và các nhiệm vụ hồi quy.  
+Xây dựng các mô hình dựa trên mạng nơ-ron hồi quy (RNN) và LSTM.  
+Tôi cũng quan tâm đến khái niệm học tăng cường (RL).  
+Tôi cũng rất giỏi trong lĩnh vực học máy cổ điển và biết nền tảng toán học cần thiết.  
+Hiện tại, tôi đang quan tâm đến DeFi và web3. Tôi rất thành thạo trong việc viết và phân tích hợp đồng thông minh.  
+Trong thời gian rảnh, tôi giải các bài toán trên LeetCode và tham gia các cuộc thi CTF.
 ### How to reach me :mailbox:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/alisababi)
 
