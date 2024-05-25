@@ -2,16 +2,28 @@ high tech, low life.
 
 ### About Me: 
 
-Tôi tên Hương, mọi người gọi tôi là alisababi. Tên thật của tôi là NGUYỄN THỊ THU HƯƠNG.  
-Tôi sinh năm 2000, đến từ Việt Nam, nơi tôi sinh ra và lớn lên ở Gia Lai.  
-Hiện tại, tôi sống, học tập và làm việc tại Thủ đô Hà Nội.
+Chào mọi người! Tôi là Nguyễn Thị Thu Hương, hay còn được bạn bè thân mật gọi là alisababi. 
+Tôi tự hào đến từ Việt Nam, sinh năm 2000 và lớn lên ở vùng đất xinh đẹp Gia Lai. 
+Hiện tại, tôi đang sống, học tập và cống hiến tại thủ đô Hà Nội đầy năng động.
 
-Tôi là một nhà khoa học dữ liệu quan tâm đến phân tích dự đoán và các nhiệm vụ hồi quy.  
-Xây dựng các mô hình dựa trên mạng nơ-ron hồi quy (RNN) và LSTM.  
-Tôi cũng quan tâm đến khái niệm học tăng cường (RL).  
-Tôi cũng rất giỏi trong lĩnh vực học máy cổ điển và biết nền tảng toán học cần thiết.  
-Hiện tại, tôi đang quan tâm đến DeFi và web3. Tôi rất thành thạo trong việc viết và phân tích hợp đồng thông minh.  
-Trong thời gian rảnh, tôi giải các bài toán trên LeetCode và tham gia các cuộc thi CTF.
+Tôi là một nhà khoa học dữ liệu đầy nhiệt huyết và đam mê, với trọng tâm là phân tích dự đoán và nhiệm vụ hồi quy. 
+Tôi đã rèn luyện kỹ năng xây dựng mô hình dựa trên mạng nơ-ron hồi quy (RNN) và LSTM, cho phép tôi tạo ra các giải
+ pháp tiên tiến. Ngoài ra, tôi còn dấn thân vào thế giới học tăng cường (RL), mở rộng khả năng của tôi trong lĩnh 
+vực trí tuệ nhân tạo.
+
+Thành thạo trong học máy cổ điển và sở hữu nền tảng toán học vững chắc, tôi tự tin áp dụng những kiến thức này vào
+ thực tiễn. Tôi là một chuyên gia trong việc viết và phân tích hợp đồng thông minh, khám phá tiềm năng của DeFi và web3.
+ Tôi tin rằng sự kết hợp mạnh mẽ giữa khoa học dữ liệu và hợp đồng thông minh sẽ tạo ra những cơ hội đột phá và ứng dụng đổi cuộc.
+
+Bên cạnh đó, tôi còn có một kỹ năng độc đáo trong quản trị hệ thống tài chính SWIFT. Tôi đã làm việc với Hiệp hội Viễn 
+thông Tài chính Liên ngân hàng Toàn cầu (SWIFT), đảm bảo an ninh và bảo mật tối ưu trong truyền thông tin tài chính cho 
+các tổ chức tài chính. Tôi thành thạo trong quản lý cài đặt, cấu hình mạng SWIFT, giám sát giao dịch và giải quyết mọi
+ vấn đề kỹ thuật, đảm bảo tuân thủ các tiêu chuẩn và quy định tài chính quốc tế. Kỹ năng này đã giúp tôi hỗ trợ trơn tru 
+cho các hoạt động ngân hàng xuyên biên giới.
+
+Tôi tự hào về khả năng kết hợp chuyên môn khoa học dữ liệu với kiến thức sâu rộng về tài chính, tạo nên một hồ sơ chuyên 
+nghiệp mạnh mẽ. Tôi luôn háo hức với những thách thức mới, sẵn sàng áp dụng kỹ năng của mình để giải quyết vấn đề phức tạp
+ và mang lại giá trị thực tế. Hãy cùng kết nối và tạo nên những điều tuyệt vời!
 ### How to reach me :mailbox:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/alisababi)
 
